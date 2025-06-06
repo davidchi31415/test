@@ -31,3 +31,7 @@ yarn.lock
 /test-results/
 /playwright-report/
 /playwright/.cache/
+
+# Code Signing
+build-mac-signed.sh
+certificate.p12
